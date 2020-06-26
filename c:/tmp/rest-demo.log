@@ -1,0 +1,3 @@
+12:11:04.165 [main] INFO  k.a.h.c.HelloSpringBootApplication - Starting HelloSpringBootApplication on subin-iui-MacBook-Pro.local with PID 78321 (/Users/exception/Desktop/dev/Java/helloSpringBoot/target/classes started by exception in /Users/exception/Desktop/dev/Java/helloSpringBoot) 
+12:11:04.167 [main] INFO  k.a.h.c.HelloSpringBootApplication - No active profile set, falling back to default profiles: default 
+12:11:05.117 [main] INFO  k.a.h.c.HelloSpringBootApplication - Started HelloSpringBootApplication in 1.194 seconds (JVM running for 1.625) 
